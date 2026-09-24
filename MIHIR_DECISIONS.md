@@ -1,6 +1,5 @@
 # Mihir decisions needed
 
-Use this file only for clinical decisions that reviewers should not make by themselves.
 
 ## 1. Pain data
 
