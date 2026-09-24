@@ -1,4 +1,0 @@
-publication_id,resource_type,title,year,role_in_project,doi_or_url,verification_status,notes
-PUB-0001,existing_review,"Datasets for Artificial Intelligence-based Spine Analysis: A Scoping Review",2024,prior_review_and_seed_source,https://doi.org/10.62527/joiv.8.4.3042,verified,Spine-specific scoping review; map scope and gaps without treating listed datasets as independently verified.
-PUB-0002,existing_review,"Publicly Available Datasets for Artificial Intelligence in Neurosurgery: A Systematic Review",2025,prior_review_and_seed_source,https://doi.org/10.3390/jcm14165674,verified,Broader neurosurgical review; use for discovery and overlap framing.
-PUB-0003,dataset_primary,"An open-access lumbosacral spine MRI dataset with enhanced spinal nerve root structure resolution",2024,candidate_dataset,https://doi.org/10.1038/s41597-024-03919-4,verified,Example candidate for pilot extraction; do not infer pain or treatment information from its anatomy focus.
